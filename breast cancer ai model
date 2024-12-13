@@ -1,0 +1,7 @@
+For my module I have chosen to use Artificial Neural Networks (ANN). Artificial Neural network is a technique within AI that teaches a computer to understand and process information the same way human brains process information. ANN usually has layers , the 3 main layers include :
+Input layer – this layers purpose is to receive a input value
+Hidden layer – in this layer the actual process is done, typically there is multiple hidden layers 
+Output layer – This outputs a value 
+Within machine learning there is two main techniques used. Supervised and unsupervised learning.
+Supervised learning is a machine learning method in which the model is trained using fully defined data. Unsupervised data is when the data isn’t fully labelled and its used to find unknown pattern in data , It’s also mainly used to understand relationships within datasets.                                              
+For this project I have used supervised learning algorithm as this algorithm can make predictions on new data based on what it learns from previous training. 
